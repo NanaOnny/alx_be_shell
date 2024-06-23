@@ -1,4 +1,2 @@
 #!/bin/bash
-#This is a program used to display hello
-echo "hello"
-chmod +x hello.sh
+#This is a program used to display hello echo "hello" chmod +x hello.sh
